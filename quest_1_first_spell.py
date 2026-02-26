@@ -1,0 +1,15 @@
+# Quest 1: Your First Spell
+
+print("=" * 40)
+print(" WELCOME, BRAVE ADVENTURER!")
+print("=" * 40)
+print()
+print("You have entered the Realm of Python.")
+print("Your journey to master the arcane arts")
+print("of code begins... NOW.")
+print()
+print("May your bugs be few and your logic strong.")
+print()
+print("=" * 40)
+print("  🐉  Good luck on your quest!  🐉")
+print("=" * 40)
